@@ -1,0 +1,68 @@
+header{
+    border-bottom: 2px solid white;
+    padding: 20px;
+    font-size: 20px;
+    background-color: black;
+}
+
+footer{
+    margin: 0px;
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+body{
+    color:white;
+    background-color: black;
+    margin: 0px;
+    margin-bottom: 50px;
+}
+#milanos{
+    width: 500;
+    height: 300px;
+}
+#trailerbleach{
+    display: 1;
+}
+
+
+.body-first{
+    background-color: black;
+    background: rgb(10, 3, 2);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.texto{
+    color:aliceblue;
+     display: 0;   
+     font-family: sans-serif;
+}
+.texto p{
+    font-weight: 600;
+}
+
+.img{
+    width: 300px;
+    height: 200px;
+}
+
+.categoria-lutas{
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+.categoria-lutas img{
+    opacity: 0.5;
+}
+.categoria-lutas img:hover{
+    opacity: 1.0;
+    border: 3px solid white;
+}
+
+.body_two{
+    background-color: black;
+}
+
